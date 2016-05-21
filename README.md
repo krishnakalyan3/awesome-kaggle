@@ -6,9 +6,9 @@ Curated list of kaggle kaggle solutions
 This is a work in progress, so if you know any solutions that are not mentioned here, please do a PR!
 
 ## Table of Contents
-* **[Depot Product Search Relevance](#depot-product-search-relevance)** 
+* **[Depot Product Search Relevance](#depot-product-search-relevance)**
 * **[March Machine Learning Mania 2016](#march-machine-learning-mania-2016)** 
-* **[KDD Cup 2013 - Track 2](#kdd-cup-2013-track2)** 
+* **[KDD Cup 2013 Track2](#kdd-cup-2013-track2)** 
 
 
 ### Depot Product Search Relevance
@@ -21,6 +21,6 @@ This is a work in progress, so if you know any solutions that are not mentioned 
 1.  [1st Place Solution](http://blog.kaggle.com/2016/05/10/march-machine-learning-mania-2016-winners-interview-1st-place-miguel-alomar/) by Miguel Alomar
 
 
-### KDD Cup 2013 - Track 2
+### KDD Cup 2013 Track2
 
 1.  [1st Place Code](https://github.com/kdd-cup-2013-ntu/track2) by Cheng-Xia et all.
