@@ -35,5 +35,4 @@ This is a work in progress, so if you know any solutions that are not mentioned 
 ### Extras
 
 - [Kaggle Ensembling Guide](http://mlwave.com/kaggle-ensembling-guide/)
-
 - [Winning Data Science Competitions by Owen Zhang](http://de.slideshare.net/ShangxuanZhang/winning-data-science-competitions-presented-by-owen-zhang)
