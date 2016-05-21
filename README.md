@@ -13,14 +13,14 @@ This is a work in progress, so if you know any solutions that are not mentioned 
 
 ### Depot Product Search Relevance
 
-1.  [1st Place Solution](http://blog.kaggle.com/2016/05/18/home-depot-product-search-relevance-winners-interview-1st-place-alex-andreas-nurlan/) by Alex, Andreas, & Nurlan
+[1st Place Solution](http://blog.kaggle.com/2016/05/18/home-depot-product-search-relevance-winners-interview-1st-place-alex-andreas-nurlan/) by Alex, Andreas, & Nurlan
 
 
 ### March Machine Learning Mania 2016
 
-1.  [1st Place Solution](http://blog.kaggle.com/2016/05/10/march-machine-learning-mania-2016-winners-interview-1st-place-miguel-alomar/) by Miguel Alomar
+[1st Place Solution](http://blog.kaggle.com/2016/05/10/march-machine-learning-mania-2016-winners-interview-1st-place-miguel-alomar/) by Miguel Alomar
 
 
 ### KDD Cup 2013 Track2
 
-1.  [1st Place Code](https://github.com/kdd-cup-2013-ntu/track2) by Cheng-Xia et all.
+[1st Place Code](https://github.com/kdd-cup-2013-ntu/track2) by Cheng-Xia et all.
