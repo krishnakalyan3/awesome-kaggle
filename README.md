@@ -36,3 +36,10 @@ This is a work in progress, so if you know any solutions that are not mentioned 
 
 - [Kaggle Ensembling Guide](http://mlwave.com/kaggle-ensembling-guide/)
 - [Winning Data Science Competitions by Owen Zhang](http://de.slideshare.net/ShangxuanZhang/winning-data-science-competitions-presented-by-owen-zhang)
+
+
+## License
+
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, Krishna Kalyan has waived all copyright and related or neighboring rights to this work.
