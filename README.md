@@ -15,9 +15,8 @@ This is a work in progress, so if you know any solutions that are not mentioned 
 
 
 ### BNP Paribas Cardif Claims Management
-[1st Place Solution](https://www.kaggle.com/c/bnp-paribas-cardif-claims-management/forums/t/20247/1-dexter-s-lab-winning-solution) by Dexter's Lab
-
-[2nd Place Solution](https://www.kaggle.com/c/bnp-paribas-cardif-claims-management/forums/t/20252/escalated-chi-2nd-place-solution) by Escalated Chi
+- [1st Place Solution](https://www.kaggle.com/c/bnp-paribas-cardif-claims-management/forums/t/20247/1-dexter-s-lab-winning-solution) by Dexter's Lab
+- [2nd Place Solution](https://www.kaggle.com/c/bnp-paribas-cardif-claims-management/forums/t/20252/escalated-chi-2nd-place-solution) by Escalated Chi
 
 ### National Data Science Bowl
 
@@ -26,17 +25,17 @@ This is a work in progress, so if you know any solutions that are not mentioned 
 
 ### Depot Product Search Relevance
 
-[1st Place Solution](http://blog.kaggle.com/2016/05/18/home-depot-product-search-relevance-winners-interview-1st-place-alex-andreas-nurlan/) by Alex, Andreas, & Nurlan
+- [1st Place Solution](http://blog.kaggle.com/2016/05/18/home-depot-product-search-relevance-winners-interview-1st-place-alex-andreas-nurlan/) by Alex, Andreas, & Nurlan
 
 
 ### March Machine Learning Mania 2016
 
-[1st Place Solution](http://blog.kaggle.com/2016/05/10/march-machine-learning-mania-2016-winners-interview-1st-place-miguel-alomar/) by Miguel Alomar
+- [1st Place Solution](http://blog.kaggle.com/2016/05/10/march-machine-learning-mania-2016-winners-interview-1st-place-miguel-alomar/) by Miguel Alomar
 
 
 ### KDD Cup 2013 Track 2
 
-[1st Place Code](https://github.com/kdd-cup-2013-ntu/track2) by Cheng-Xia et all.
+- [1st Place Code](https://github.com/kdd-cup-2013-ntu/track2) by Cheng-Xia et all.
 
 ### Extras
 
