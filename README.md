@@ -6,11 +6,17 @@ Curated list of kaggle kaggle solutions
 This is a work in progress, so if you know any solutions that are not mentioned here, please do a PR!
 
 ## Table of Contents
+* **[BNP Paribas Cardif Claims Management](#bnp-paribas-cardif-claims-management)**
 * **[Depot Product Search Relevance](#depot-product-search-relevance)**
 * **[March Machine Learning Mania 2016](#march-machine-learning-mania-2016)** 
 * **[KDD Cup 2013 Track 2](#kdd-cup-2013-track-2)** 
 * **[Extras](#extras)** 
 
+
+### BNP Paribas Cardif Claims Management
+[1st Place Solution](https://www.kaggle.com/c/bnp-paribas-cardif-claims-management/forums/t/20247/1-dexter-s-lab-winning-solution) by Dexter's Lab
+
+[2nd Place Solution](https://www.kaggle.com/c/bnp-paribas-cardif-claims-management/forums/t/20252/escalated-chi-2nd-place-solution) by escalated chi
 
 ### Depot Product Search Relevance
 
@@ -29,4 +35,4 @@ This is a work in progress, so if you know any solutions that are not mentioned 
 ### Extras
 
 [Kaggle Ensembling Guide](http://mlwave.com/kaggle-ensembling-guide/)
-
+[Winning Data Science Competitions by Owen Zhang](http://de.slideshare.net/ShangxuanZhang/winning-data-science-competitions-presented-by-owen-zhang)
