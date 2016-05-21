@@ -9,6 +9,7 @@ This is a work in progress, so if you know any solutions that are not mentioned 
 * **[BNP Paribas Cardif Claims Management](#bnp-paribas-cardif-claims-management)**
 * **[Depot Product Search Relevance](#depot-product-search-relevance)**
 * **[March Machine Learning Mania 2016](#march-machine-learning-mania-2016)** 
+* **[National Data Science Bowl](#national-data-science-bowl)** 
 * **[KDD Cup 2013 Track 2](#kdd-cup-2013-track-2)** 
 * **[Extras](#extras)** 
 
@@ -17,6 +18,12 @@ This is a work in progress, so if you know any solutions that are not mentioned 
 [1st Place Solution](https://www.kaggle.com/c/bnp-paribas-cardif-claims-management/forums/t/20247/1-dexter-s-lab-winning-solution) by Dexter's Lab
 
 [2nd Place Solution](https://www.kaggle.com/c/bnp-paribas-cardif-claims-management/forums/t/20252/escalated-chi-2nd-place-solution) by Escalated Chi
+
+### National Data Science Bowl
+
+[1st Place Solution](http://benanne.github.io/2015/03/17/plankton.html)
+
+[1st Place Code](https://github.com/benanne/kaggle-ndsb)
 
 ### Depot Product Search Relevance
 
