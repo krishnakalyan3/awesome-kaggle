@@ -10,7 +10,7 @@ This is a work in progress, so if you know any solutions that are not mentioned 
 * **[Depot Product Search Relevance](#depot-product-search-relevance)**
 * **[March Machine Learning Mania 2016](#march-machine-learning-mania-2016)** 
 * **[KDD Cup 2013 Track 2](#kdd-cup-2013-track-2)** 
-* **[Extras](#Extras)** 
+* **[Extras](#extras)** 
 
 
 ### BNP Paribas Cardif Claims Management
@@ -35,4 +35,5 @@ This is a work in progress, so if you know any solutions that are not mentioned 
 ### Extras
 
 [Kaggle Ensembling Guide](http://mlwave.com/kaggle-ensembling-guide/)
+
 [Winning Data Science Competitions by Owen Zhang](http://de.slideshare.net/ShangxuanZhang/winning-data-science-competitions-presented-by-owen-zhang)
