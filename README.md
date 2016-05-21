@@ -8,7 +8,8 @@ This is a work in progress, so if you know any solutions that are not mentioned 
 ## Table of Contents
 * **[Depot Product Search Relevance](#depot-product-search-relevance)**
 * **[March Machine Learning Mania 2016](#march-machine-learning-mania-2016)** 
-* **[KDD Cup 2013 Track2](#kdd-cup-2013-track2)** 
+* **[KDD Cup 2013 Track 2](#kdd-cup-2013-track-2)** 
+* **[Extras](#extras)** 
 
 
 ### Depot Product Search Relevance
@@ -21,6 +22,11 @@ This is a work in progress, so if you know any solutions that are not mentioned 
 [1st Place Solution](http://blog.kaggle.com/2016/05/10/march-machine-learning-mania-2016-winners-interview-1st-place-miguel-alomar/) by Miguel Alomar
 
 
-### KDD Cup 2013 Track2
+### KDD Cup 2013 Track 2
 
 [1st Place Code](https://github.com/kdd-cup-2013-ntu/track2) by Cheng-Xia et all.
+
+### Extras
+
+[Kaggle Ensembling Guide](http://mlwave.com/kaggle-ensembling-guide/)
+
