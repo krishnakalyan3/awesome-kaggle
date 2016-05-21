@@ -16,7 +16,7 @@ This is a work in progress, so if you know any solutions that are not mentioned 
 ### BNP Paribas Cardif Claims Management
 [1st Place Solution](https://www.kaggle.com/c/bnp-paribas-cardif-claims-management/forums/t/20247/1-dexter-s-lab-winning-solution) by Dexter's Lab
 
-[2nd Place Solution](https://www.kaggle.com/c/bnp-paribas-cardif-claims-management/forums/t/20252/escalated-chi-2nd-place-solution) by escalated chi
+[2nd Place Solution](https://www.kaggle.com/c/bnp-paribas-cardif-claims-management/forums/t/20252/escalated-chi-2nd-place-solution) by Escalated Chi
 
 ### Depot Product Search Relevance
 
