@@ -21,9 +21,9 @@ This is a work in progress, so if you know any solutions that are not mentioned 
 
 ### National Data Science Bowl
 
-[1st Place Solution](http://benanne.github.io/2015/03/17/plankton.html)
+[1st Place Solution](http://benanne.github.io/2015/03/17/plankton.html) by Aäron van den Oord
 
-[1st Place Code](https://github.com/benanne/kaggle-ndsb)
+[1st Place Code](https://github.com/benanne/kaggle-ndsb) by Aäron van den Oord
 
 ### Depot Product Search Relevance
 
