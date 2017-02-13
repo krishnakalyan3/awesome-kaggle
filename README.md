@@ -20,7 +20,7 @@ This is a work in progress, so if you know any solutions that are not mentioned 
 
 ### National Data Science Bowl
 
-- [[Solution](http://benanne.github.io/2015/03/17/plankton.html) [Code](https://github.com/benanne/kaggle-ndsb)] by Aäron van den Oord
+- [[Solution](http://benanne.github.io/2015/03/17/plankton.html)][[Code](https://github.com/benanne/kaggle-ndsb)] by Aäron van den Oord
 
 ### Depot Product Search Relevance
 
