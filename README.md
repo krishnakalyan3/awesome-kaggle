@@ -1,17 +1,21 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 # awesome-kaggle
-Curated list of kaggle kaggle solutions
+Curated list of kaggle kaggle solutions.
 
 This is a work in progress, so if you know any solutions that are not mentioned here, please do a PR!
 
 ## Table of Contents
+* **[Allstate Claims Severity](#allstate-claims-severity)**
 * **[BNP Paribas Cardif Claims Management](#bnp-paribas-cardif-claims-management)**
 * **[Depot Product Search Relevance](#depot-product-search-relevance)**
 * **[March Machine Learning Mania 2016](#march-machine-learning-mania-2016)** 
 * **[National Data Science Bowl](#national-data-science-bowl)** 
 * **[KDD Cup 2013 Track 2](#kdd-cup-2013-track-2)** 
 * **[Extras](#extras)** 
+
+### Allstate Claims Severity
+- [[Solution](https://www.kaggle.com/c/allstate-claims-severity/discussion/26537)] by Gilberto Titericz Junior
 
 
 ### BNP Paribas Cardif Claims Management
@@ -36,7 +40,7 @@ This is a work in progress, so if you know any solutions that are not mentioned 
 
 - [[Code](https://github.com/kdd-cup-2013-ntu/track2)] by Cheng-Xia et all.
 
-### Kaggle related eXtras
+### extras
 
 - [Kaglle Decal](https://www.youtube.com/watch?v=RUrXA9koSCw&list=PLe1ZejL9wM_4qG-EEM4iqudPKGKdZG-6h&index=1)
 - [Fast AI](http://www.fast.ai/)
