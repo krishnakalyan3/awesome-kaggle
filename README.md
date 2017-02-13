@@ -30,14 +30,14 @@ This is a work in progress, so if you know any solutions that are not mentioned 
 
 ### March Machine Learning Mania 2016
 
-- [1st Place Solution](http://blog.kaggle.com/2016/05/10/march-machine-learning-mania-2016-winners-interview-1st-place-miguel-alomar/) by Miguel Alomar
+- [[1st Place Solution]](http://blog.kaggle.com/2016/05/10/march-machine-learning-mania-2016-winners-interview-1st-place-miguel-alomar/) by Miguel Alomar
 
 
 ### KDD Cup 2013 Track 2
 
 - [1st Place Code](https://github.com/kdd-cup-2013-ntu/track2) by Cheng-Xia et all.
 
-### Extras
+### Kaggle related eXtras
 
 - [Kaglle Decal](https://www.youtube.com/watch?v=RUrXA9koSCw&list=PLe1ZejL9wM_4qG-EEM4iqudPKGKdZG-6h&index=1)
 - [Fast AI](http://www.fast.ai/)
