@@ -46,7 +46,7 @@ This is a work in progress, so if you know any solutions that are not mentioned 
 - [Fast AI](http://www.fast.ai/)
 - [Kaggle Ensembling Guide](http://mlwave.com/kaggle-ensembling-guide/)
 - [Winning Data Science Competitions by Owen Zhang](http://de.slideshare.net/ShangxuanZhang/winning-data-science-competitions-presented-by-owen-zhang)
-
+- [Learning from the best](http://blog.kaggle.com/2014/08/01/learning-from-the-best/)
 
 ## License
 
